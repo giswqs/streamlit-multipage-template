@@ -2,5 +2,6 @@
 geemap
 geopandas
 leafmap
+owslib
 streamlit
 

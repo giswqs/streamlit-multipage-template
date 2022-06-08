@@ -11,7 +11,7 @@ Web App URL: <https://template.streamlitapp.com>
 1. For the GitHub repository or use it as a template for your own project.
 2. Customize the sidebar by changing the sidebar text and logo in each Python file.
 3. Find your favorite emoji from https://emojipedia.org.
-4. Add a new app to the pages/ directory with an emoji in the file name, e.g., 1_🚀_Chart.py.
+4. Add a new app to the `pages/` directory with an emoji in the file name, e.g., 1_🚀_Chart.py.
 
 ## Demo
 

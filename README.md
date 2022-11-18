@@ -4,7 +4,7 @@ A streamlit multipage app template for geospatial applications. It can be deploy
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/giswqs/streamlit-multipage-template/master?urlpath=proxy/8501/)
 
-Web App URL: <https://template.streamlitapp.com>
+Web App URL: <https://template.streamlit.app>
 
 ## Instructions
 

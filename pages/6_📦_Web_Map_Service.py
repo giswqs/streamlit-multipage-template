@@ -32,7 +32,7 @@ def app():
     )
 
     row1_col1, row1_col2 = st.columns([3, 1.3])
-    width = 800
+    width = None
     height = 600
     layers = None
 
